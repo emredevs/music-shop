@@ -1,0 +1,26 @@
+
+.m-ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden; 
+
+}
+.m-li { 
+    float: left; 
+
+}
+.m-li-a {
+    display: block;
+    padding:12px 14px;
+}
+
+.ort{
+
+    margin:0 auto 0 auto;
+	display:table;
+}
+.h2-cl{
+    color:chocolate ;
+}
